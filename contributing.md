@@ -2,7 +2,7 @@
 Before sending your pull requests, make sure that you read the guidelines properly. If you still have any doubts about the contributing guide, please feel free to reach out.
 
 ## PULL REQUEST PROCESS
-Following are the steps to guide you. You can proceed in 2 ways: either by local machine (using git) or using github only.
+Following are the steps to guide you
 
 - Step 1: Star and Fork the repo.
 - Step 2: Open the forked repo (can find in your repositories) and open the folder of your desired topic.
